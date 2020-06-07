@@ -6,3 +6,6 @@
 
 03-WebServer/node_modules/
 03-WebServer/package-lock.json
+
+04-RESTServer/node_modules/
+04-RESTServer/package-lock.json
